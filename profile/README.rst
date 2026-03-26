@@ -1,7 +1,7 @@
 Science :milky_way:
 *******************
 
-|MpiHeidelbergLogo|
+|NikhefLogo| |MpiHeidelbergLogo| |RadboudLogo|
 
 Observations of cosmic gamma rays with energies above the Tera (10e12) electronvolt regime are often a direct probe of events where our theoretical predictions are challenged by extreme conditions.
 Because high energetic cosmic gamma rays are rare, one needs collection areas with the size of soccer fields (10e5 m2) or more to gather significant counting statistics in short time.
@@ -18,3 +18,11 @@ Further, the imaging atmospheric radio telescope might also eight fold the obser
 .. |MpiHeidelbergLogo| image:: https://github.com/imaging-atmospheric-radio-telescope/.github/blob/main/profile/resources/logo_mpi_kernphysik.svg
     :width: 160px
     :target: https://www.mpi-hd.mpg.de/mpi/de/
+
+.. |NikhefLogo| image:: https://github.com/imaging-atmospheric-radio-telescope/.github/blob/main/profile/resources/logo_nikhef_red-on-white.svg.png
+    :width: 160px
+    :target: https://www.nikhef.nl/en/
+
+.. |RadboudLogo| image:: https://github.com/imaging-atmospheric-radio-telescope/.github/blob/main/profile/resources/logo_radboud_universitiet.svg
+    :width: 160px
+    :target: https://www.ru.nl/en/imapp
