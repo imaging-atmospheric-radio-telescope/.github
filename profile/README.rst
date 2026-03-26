@@ -20,9 +20,9 @@ Further, the imaging atmospheric radio telescope might also eight fold the obser
     :target: https://www.mpi-hd.mpg.de/mpi/de/
 
 .. |NikhefLogo| image:: https://github.com/imaging-atmospheric-radio-telescope/.github/blob/main/profile/resources/logo_nikhef_red-on-white.svg.png
-    :width: 160px
+    :width: 140px
     :target: https://www.nikhef.nl/en/
 
 .. |RadboudLogo| image:: https://github.com/imaging-atmospheric-radio-telescope/.github/blob/main/profile/resources/logo_radboud_universitiet.svg
-    :width: 160px
+    :width: 200px
     :target: https://www.ru.nl/en/imapp
