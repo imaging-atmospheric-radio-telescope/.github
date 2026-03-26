@@ -1,5 +1,5 @@
-Science :milky_way:
-*******************
+Gamma Ray, Neutrino and Cosmic Ray Astronomy :milky_way:
+********************************************************
 
 |NikhefLogo| |MpiHeidelbergLogo| |RadboudLogo|
 
